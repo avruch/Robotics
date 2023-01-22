@@ -1,0 +1,2 @@
+gazebo_ros_demos/gazebo_tutorials:gazebo_ros_demos/rrbot_control:gazebo_ros_demos/rrbot_description:gazebo_ros_demos/rrbot_gazebo:hw3/hw3
+-DCATKIN_DEVEL_PREFIX=/home/yuval/hw3_ws/devel -DCMAKE_INSTALL_PREFIX=/home/yuval/hw3_ws/install -G Unix Makefiles

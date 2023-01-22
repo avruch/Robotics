@@ -1,0 +1,4 @@
+<launch>
+  <include file="$(find rrbot_gazebo)/launch/rrbot_world.launch" />
+  <include file="$(find rrbot_control)/launch/rrbot_control.launch" />
+</launch>

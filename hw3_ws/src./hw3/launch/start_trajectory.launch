@@ -1,0 +1,5 @@
+<launch>
+  <node name="send_command" pkg="hw3" type="send_command.py" />
+  <node name="plot_command_vs_actual" pkg="hw3" type="plot_command_vs_actual.py" />
+  <node name="call_reset_simulation" pkg="rosservice" type="rosservice" args="call /gazebo/reset_simulation" />
+</launch>

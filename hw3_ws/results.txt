@@ -1,0 +1,6 @@
+Final settling time for joint1: 342000000
+Average tracking error for joint1: 3.28358466846
+Maximum tracking error for joint1: 26.9263350214
+Final settling time for joint2: 386000000
+Average tracking error for joint2: 3.28941961398
+Maximum tracking error for joint2: 27.0231953365
